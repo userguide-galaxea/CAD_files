@@ -1,4 +1,4 @@
-# CAD 文件 / CAD Files
+# Galxea CAD Files
 
 ## 中文
 
