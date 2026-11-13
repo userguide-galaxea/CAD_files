@@ -6,8 +6,8 @@
 
 | 目录 | 内容 |
 |:---|:---|
-| `A1X/`, `A2/`, `G1/` | 机械臂末端连杆、夹爪零件与法兰结构 |
-| [`A1Z/`](A1Z/README.md) | 面向 A1Z 客户的基座、腕部相机支架、J6 输出法兰模型与工程图纸 |
+| `A1X/`, `A2/`, `G1/` | A1X, A2 机械臂末端连杆、G1夹爪零件与法兰结构 |
+| [`A1Z/`](A1Z/README.md) | A1Z 的基座、腕部相机支架、J6 输出法兰模型与工程图纸 |
 | `Wrist Camera Holder/` | D405 / D435i / GMSL 腕部相机支架 |
 | [`tabletop_teleoperation/`](tabletop_teleoperation/README.md) | 桌面遥操作支架与夹爪 |
 
@@ -19,7 +19,7 @@ This repository hosts CAD files for Galaxea robots, including camera mounts, rob
 
 | Directory | Description |
 |:---|:---|
-| `A1X/`, `A2/`, `G1/` | Arm end links, gripper parts, and flange structures |
-| [`A1Z/`](A1Z/README.md) | Base, wrist camera mount, and J6 output flange models and drawings for A1Z customers |
+| `A1X/`, `A2/`, `G1/` | A1X, A2 robotic arm end links, gripper parts, and flange structures |
+| [`A1Z/`](A1Z/README.md) | Base, wrist camera mount, and J6 output flange models and drawings for A1Z |
 | `Wrist Camera Holder/` | Wrist camera mounts for D405, D435i, and GMSL cameras |
 | [`tabletop_teleoperation/`](tabletop_teleoperation/README.md) | Mounting brackets and gripper for the tabletop teleoperation setup |
