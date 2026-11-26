@@ -1,5 +1,13 @@
 # A1Z CAD 文件 / A1Z CAD Files
 
+## STEP previews / STEP 外观预览
+
+| STEP / STP | Preview / 外观预览 |
+| --- | --- |
+| [`A1Z_Base.STEP`](A1Z_Base.STEP) | <a href="previews/a1z_base.png"><img src="previews/a1z_base.png" alt="A1Z_Base exterior" width="240"></a> |
+| [`A1Z_J6_Output_Flange.STEP`](A1Z_J6_Output_Flange.STEP) | <a href="previews/a1z_j6_output_flange.png"><img src="previews/a1z_j6_output_flange.png" alt="A1Z_J6_Output_Flange exterior" width="240"></a> |
+| [`A1Z_Wrist_Camera_Mount.stp`](A1Z_Wrist_Camera_Mount.stp) | <a href="previews/a1z_wrist_camera_mount.png"><img src="previews/a1z_wrist_camera_mount.png" alt="A1Z_Wrist_Camera_Mount exterior" width="240"></a> |
+
 ## 中文
 
 本目录存放面向 A1Z 客户的 CAD 文件，包含机械臂基座、腕部相机支架与 J6 输出法兰，供安装集成、工装与末端执行器设计使用。`.STEP` / `.stp` 为三维模型，`.pdf` 为标注尺寸与孔位的工程图纸。
