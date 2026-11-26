@@ -1,5 +1,7 @@
 # A1Z CAD 文件 / A1Z CAD Files
 
+[A1Z URDF 模型说明 / A1Z URDF documentation](https://github.com/userguide-galaxea/robot_descriptions/blob/galaxea/main/a1z_description/README.md)
+
 ## STEP previews / STEP 外观预览
 
 | STEP / STP | Preview / 外观预览 |
