@@ -8,6 +8,7 @@
 |:---|:---|
 | [`A1X/`](A1X/README.md), [`A2/`](A2/README.md), [`G1/`](G1/README.md) | A1X, A2 机械臂末端连杆、G1夹爪零件与法兰结构 |
 | [`A1Z/`](A1Z/README.md) | A1Z 的基座、腕部相机支架、J6 输出法兰模型与工程图纸 |
+| [`LEMO/`](LEMO/README.md) | 头部相机完整立杆及立杆上端的 STEP 模型与 PDF 图纸 |
 | [`Wrist Camera Holder/`](Wrist%20Camera%20Holder/README.md) | D405 / D435i / GMSL 腕部相机支架 |
 | [`tabletop_teleoperation/`](tabletop_teleoperation/README.md) | 桌面遥操作支架与夹爪 |
 
@@ -21,6 +22,7 @@ This repository hosts CAD files for Galaxea robots, including camera mounts, rob
 |:---|:---|
 | [`A1X/`](A1X/README.md), [`A2/`](A2/README.md), [`G1/`](G1/README.md) | A1X, A2 robotic arm end links, gripper parts, and flange structures |
 | [`A1Z/`](A1Z/README.md) | Base, wrist camera mount, and J6 output flange models and drawings for A1Z |
+| [`LEMO/`](LEMO/README.md) | STEP models and PDF drawings for the complete head camera mast and its upper section |
 | [`Wrist Camera Holder/`](Wrist%20Camera%20Holder/README.md) | Wrist camera mounts for D405, D435i, and GMSL cameras |
 | [`tabletop_teleoperation/`](tabletop_teleoperation/README.md) | Mounting brackets and gripper for the tabletop teleoperation setup |
 
@@ -38,6 +40,8 @@ This repository hosts CAD files for Galaxea robots, including camera mounts, rob
 | [G1](G1/README.md)                                         | [`G1_end.STEP`](G1/G1_end.STEP)                                                                   | <a href="G1/previews/g1_end.png"><img src="G1/previews/g1_end.png" alt="G1_end exterior" width="165"></a>                                                                                                                 |
 | [G1](G1/README.md)                                         | [`G1_wrist D435i_holder.stp`](G1/G1_wrist%20D435i_holder.stp)                                     | <a href="G1/previews/g1_wrist_d435i_holder.png"><img src="G1/previews/g1_wrist_d435i_holder.png" alt="G1_wrist D435i_holder exterior" width="165"></a>                                                                    |
 | [G1](G1/README.md)                                         | [`Gripper_Finger2.stp`](G1/Gripper_Finger2.stp)                                                   | <a href="G1/previews/gripper_finger2.png"><img src="G1/previews/gripper_finger2.png" alt="Gripper_Finger2 exterior" width="165"></a>                                                                                      |
+| [LEMO](LEMO/README.md) | [`LEMO_Head_Camera_Mast.STEP`](LEMO/LEMO_Head_Camera_Mast.STEP) | <a href="LEMO/previews/lemo_head_camera_mast.png"><img src="LEMO/previews/lemo_head_camera_mast.png" alt="Complete LEMO head camera mast" width="165"></a> |
+| [LEMO](LEMO/README.md) | [`LEMO_Head_Camera_Mast_Upper_Section.STEP`](LEMO/LEMO_Head_Camera_Mast_Upper_Section.STEP) | <a href="LEMO/previews/lemo_head_camera_mast_upper_section.png"><img src="LEMO/previews/lemo_head_camera_mast_upper_section.png" alt="LEMO head camera mast upper section" width="165"></a> |
 | [Wrist Camera Holder](Wrist%20Camera%20Holder/README.md)   | [`D405 holder.stp`](Wrist%20Camera%20Holder/D405%20holder.stp)                                    | <a href="Wrist%20Camera%20Holder/previews/d405_holder.png"><img src="Wrist%20Camera%20Holder/previews/d405_holder.png" alt="D405 holder exterior" width="165"></a>                                                        |
 | [Wrist Camera Holder](Wrist%20Camera%20Holder/README.md)   | [`D435i holder.stp`](Wrist%20Camera%20Holder/D435i%20holder.stp)                                  | <a href="Wrist%20Camera%20Holder/previews/d435i_holder.png"><img src="Wrist%20Camera%20Holder/previews/d435i_holder.png" alt="D435i holder exterior" width="165"></a>                                                     |
 | [Wrist Camera Holder](Wrist%20Camera%20Holder/README.md)   | [`GMSL_wrist_camera_holder.stp`](Wrist%20Camera%20Holder/GMSL_wrist_camera_holder.stp)            | <a href="Wrist%20Camera%20Holder/previews/gmsl_wrist_camera_holder.png"><img src="Wrist%20Camera%20Holder/previews/gmsl_wrist_camera_holder.png" alt="GMSL_wrist_camera_holder exterior" width="165"></a>                 |
